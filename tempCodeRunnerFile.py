@@ -1,0 +1,1 @@
+python phase1_cluster_sim.py -i device_spec.cfg
